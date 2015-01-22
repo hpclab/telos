@@ -1,0 +1,10 @@
+.project
+.classpath
+bin
+.cache
+.idea
+.worksheet
+out
+src/META-INF
+graphx_minCutFlooding.iml
+run
